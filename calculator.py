@@ -1,6 +1,6 @@
 # Objective: create a calculator
-a = int(input('enter first  number:'))
-b = int(input('enter second number:'))
+inputVariable1 = int(input('enter first  number:'))
+inputVariable2 = int(input('enter second number:'))
 
 def main():
     print("This is calculator app")
@@ -9,12 +9,12 @@ def main():
     ans=div()
 
 def mul():
-    prod=a*b
+    prod=inputVariable1*inputVariable2
     return prod
 
 def div():
 	try:
-		div=a/b
+		div=inputVariable1/inputVariable2
 		print("division is",div)
 	except :
 		print("cannot be divided by zero")
