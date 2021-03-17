@@ -1,5 +1,5 @@
 # calculator
-To create a calculator app in python
+To create an calculator app in python
 
 # Adding new feature for hiding messages
 * Adding something
