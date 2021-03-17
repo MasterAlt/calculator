@@ -15,4 +15,5 @@ def main(): - Altamash
 ```
 
 # Adding new feature for hiding messages
-* Addind something
+* Adding something
+* Adding something else
