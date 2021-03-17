@@ -15,4 +15,4 @@ def main(): - Altamash
 ```
 
 # Adding new feature for hiding messages
-Addind somethi ng
+* Addind something
