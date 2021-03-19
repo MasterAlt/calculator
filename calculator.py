@@ -1,4 +1,3 @@
-# Objective: create a calculator
 inputVariable1 = int(input('enter first  number:'))
 inputVariable2 = int(input('enter second number:'))
 
@@ -7,6 +6,11 @@ def main():
     ans=mul()
     print("the product is",ans)
     ans=div()
+    sub()
+def sub():
+    sub=a-b
+    print("subtraction is",sub)
+
 
 def mul():
     prod=inputVariable1*inputVariable2
